@@ -9,8 +9,11 @@ Feel free to explore my projects below! 🚀
 
 ## Movie Battle, compare movies using TheMovieDB API
 [GitHub](https://github.com/Mariustar/Movie-Battle)
+
 [Demo, Hosted on Surge.sh](https://mariustar-movie-battle.surge.sh/)
+
 [Pdf Demo](mariustar-movie-battle.surge.sh.pdf)
+
 
 ### 🛠️ Tech Stack
 - **Frontend**: React.js, HTML, CSS, SASS, TailWindCss, JavaScript, TypeScript
